@@ -1,0 +1,25 @@
+.container {
+  background-color: silver;
+  height: 800px;
+  width: 800px;
+  position: relative;
+  left: 800px;
+  font-family: sans-serif;
+}
+.box {
+  background-color: silver;
+  position: absolute;
+  min-height: 400px;
+  min-width: 400px;
+  margin: 100px;
+  padding: 100px;
+  
+}
+.logo {
+  height: 80px;
+  width: 80px;
+  border-radius: 100%;
+}
+.logotext {
+  font-size: 20pt;
+}

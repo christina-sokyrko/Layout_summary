@@ -1,0 +1,96 @@
+
+#container {
+  display: flex;
+  flex-direction: row;
+  background-color: white;
+    border: solid black;
+    width: 1800px;
+    min-height: 2000px;
+    position: relative;
+    left: 360px;
+    font-family: sans-serif;
+
+}
+#box-1 {
+  width: 500px;
+  background-color: silver;
+
+}
+#inner-box-1 {
+  background-color: silver;
+  min-height: 1940px;
+    margin: 40px;
+    padding: 20px;
+  }
+  .about {
+    height: 100px;
+    width: 100px;
+  }
+  #aboutme{
+    color: black;
+    font-size: 25pt;
+  }
+#biopic {
+  height: 250px;
+  width: 200px;
+  border: solid #808080 5px;
+  border-radius: 100%;
+}
+  h1#christina {
+    font-size: 30pt;
+    color: #6600CC
+  }
+    h2#frontend {
+      font-size: 25pt;
+      color: black
+    }
+    .list-1 {
+      font-size: 18pt;
+      color: black;
+    }
+    .list-2 {
+      font-size: 18pt;
+      color: black;
+    }
+    a: active {
+      color: #FF0000;
+}
+hover {
+  color: #FF0000;
+}
+
+      #box-2 {
+  width: 300px;
+  background-color: white;
+
+}
+#inner-box-2 {
+  background-color: white;
+  min-height: 1960px;
+    margin: 30px;
+    padding: 10px;
+}
+  hr {
+    height: 5px;
+    background-color: #6600CC;
+    }
+.hpic {
+  height: 50px;
+  width: 50px;
+  }
+  h2 {
+    color: #6600CC;
+  }
+#box-3 {
+  width: 1000px;
+  background-color: white;
+  }
+#inner-box-3 {
+  background-color: white;
+  min-height: 1940px;
+    margin: 40px;
+    padding: 20px;
+}
+.list {
+  font-size: 18pt;
+}
